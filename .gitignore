@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# npm
+node_modules
+package-lock.json
+dist
+
+# Temp
+Pokedex-Tutorial/
+pokemon-react/

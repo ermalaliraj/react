@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+import "./resources/App.css";
 import axios from "axios";
 
 const App = () => {

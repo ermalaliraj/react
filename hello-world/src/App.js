@@ -39,8 +39,6 @@ const App = () => {
           />
         </label>
       </form>
-      {/* <ul>{pokemonData}</ul> */}
-      {/* <p>{[pokemonData]}</p> */}
       {pokemonData.map((data) => {
         return (
           <div className="container">
